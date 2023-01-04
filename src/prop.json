@@ -1,0 +1,17 @@
+[
+  { "partmentId": 1,  "userId": 3,  "isBuilding": "false",   "address": { "city": "rehovot", "cauntry": "israel" }         },
+  { "partmentId": 2,  "userId": 3,  "isBuilding": "false",   "address": { "city": "tel-aviv", "cauntry": "israel" }        },
+  { "partmentId": 3,  "userId": 3,  "isBuilding": "false",   "address": { "city": "tel-aviv", "cauntry": "israel" }        },
+  { "partmentId": 5,  "userId": 3,  "isBuilding": "false",   "address": { "city": "jerusalem", "cauntry": "israel" }       },
+  { "partmentId": 6,  "userId": 2,  "isBuilding": "false",   "address": { "city": "harish", "cauntry": "israel" }          },
+  { "partmentId": 7,  "userId": 2,  "isBuilding": "false",   "address": { "city": "haifa", "cauntry": "israel" }           },
+  { "partmentId": 8,  "userId": 2,  "isBuilding": "false",   "address": { "city": "benymina", "cauntry": "israel" }        },
+  { "partmentId": 9,  "userId": 2,  "isBuilding": "false",   "address": { "city": "hadera", "cauntry": "israel" }          },
+  { "partmentId": 10, "userId": 2,  "isBuilding": "false",   "address": { "city": "pardes-hana", "cauntry": "israel" }     },
+  { "partmentId": 11, "userId": 2,  "isBuilding": "true",    "address": { "city": "ashdod", "cauntry": "israel" }          },
+  { "partmentId": 12, "userId": 2,  "isBuilding": "true",    "address": { "city": "bat-yam", "cauntry": "israel" }         },
+  { "partmentId": 13, "userId": 2,  "isBuilding": "true",    "address": { "city": "ramle", "cauntry": "israel" }           },
+  { "partmentId": 14, "userId": 1,  "isBuilding": "true",    "address": { "city": "netivot", "cauntry": "israel" }         },
+  { "partmentId": 15, "userId": 1,  "isBuilding": "true",    "address": { "city": "zichron Yaakov", "cauntry": "israel" }  },
+  { "partmentId": 16, "userId": 1,  "isBuilding": "true",    "address": { "city": "karny-shomron", "cauntry": "israel" }   }
+]
